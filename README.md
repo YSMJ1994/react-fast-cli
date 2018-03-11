@@ -4,6 +4,11 @@
 
 [react-fast-cli-template](https://github.com/react-fast-cli/template)
 
+#### 使用此 cli 构建的项目
+
+[古诗文查询](https://gushi.stickmy.cn)
+[github](https://github.com/poetry-cn/poetry-web)
+
 
 #### USAGE
 
