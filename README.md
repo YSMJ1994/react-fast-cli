@@ -6,7 +6,8 @@
 
 #### 使用此 cli 构建的项目
 
-[古诗文查询](https://gushi.stickmy.cn)
+[古诗文查询](https://gushi.stickmy.cn)  
+
 [github](https://github.com/poetry-cn/poetry-web)
 
 
