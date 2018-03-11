@@ -12,7 +12,7 @@ const url = require('url')
 const ora = require('ora')
 const envinfo = require('envinfo')
 
-const packageJson = require('../package.json')
+const packageJson = require('./package.json')
 
 const templateRepository = packageJson.template.repository
 
