@@ -1,0 +1,41 @@
+{
+  "name": "react-fast-cli",
+  "version": "1.0.0",
+  "description": "a react + redux + ant design cli",
+  "repository": "https://github.com/react-fast-cli/react-fast-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-easy-cli test-app"
+  },
+  "bugs": {
+    "url": "https://github.com/react-fast-cli/react-fast-cli/issues"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react router",
+    "ant design",
+    "cli"
+  ],
+  "author": "wuwaki",
+  "license": "ISC",
+  "bin": {
+    "react-easy-cli": "./index.js"
+  },
+  "template": {
+    "repository": "https://github.com/react-fast-cli/template"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.9.0",
+    "cross-spawn": "^6.0.5",
+    "envinfo": "3.4.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^5.0.0",
+    "git-clone": "^0.1.0",
+    "ora": "^2.0.0",
+    "semver": "^5.5.0",
+    "shelljs": "^0.8.1",
+    "yargs": "^11.0.0"
+  }
+}
