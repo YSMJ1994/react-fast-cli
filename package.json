@@ -19,8 +19,12 @@
   ],
   "author": "wuwaki",
   "license": "ISC",
+  "files": [
+    "index.js",
+    "bin/cli.js"
+  ],
   "bin": {
-    "react-easy-cli": "./index.js"
+    "react-fast-cli": "./index.js"
   },
   "template": {
     "repository": "https://github.com/react-fast-cli/template"

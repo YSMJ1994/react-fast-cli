@@ -1,1 +1,1 @@
-require('../bin/cli.js')
+require('./react-fast-cli')
