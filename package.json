@@ -1,6 +1,6 @@
 {
   "name": "react-fast-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a react + redux + ant design cli",
   "repository": "https://github.com/react-fast-cli/react-fast-cli",
   "main": "index.js",
