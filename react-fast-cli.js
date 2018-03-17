@@ -37,7 +37,7 @@ const program = new commander.Command(packageJson.name)
         );
         console.log(
             `      ${chalk.cyan(
-                'https://github.com/react-easy-cli/react-easy-cli/issues/new'
+                'https://github.com/react-fast-cli/react-fast-cli/issues/new'
             )}`
         );
         console.log();
