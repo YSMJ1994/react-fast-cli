@@ -8,10 +8,7 @@ cache:
     - node_modules
 
 install:
-  - npm install
+  - npm install react-fast-cli -g
 
 script:
   - npm run test
-
-after_success:
-  - npm run codecov
