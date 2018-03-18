@@ -1,6 +1,7 @@
 ## react-fast-cli  
 
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/react-fast-cli)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-fast-cli)
 
 #### TEMPLATE
 
