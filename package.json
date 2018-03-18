@@ -5,7 +5,7 @@
   "repository": "https://github.com/react-fast-cli/react-fast-cli",
   "main": "index.js",
   "scripts": {
-    "test": "react-easy-cli test-app"
+    "test": "react-fast-cli test-app"
   },
   "bugs": {
     "url": "https://github.com/react-fast-cli/react-fast-cli/issues"
