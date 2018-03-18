@@ -1,7 +1,7 @@
 ## react-fast-cli  
 
 [![npm](https://img.shields.io/badge/downloads-160%2Fmonth-brightgreen.svg)](https://www.npmjs.com/package/react-fast-cli)
-[![npm](https://img.shields.io/badge/npm-1.0.5-brightgreen.svg)](https://www.npmjs.com/package/react-fast-cli)
+[![npm](https://img.shields.io/badge/npm-1.0.6-brightgreen.svg)](https://www.npmjs.com/package/react-fast-cli)
 [![Build Status](https://travis-ci.org/react-fast-cli/react-fast-cli.svg?branch=master)](https://travis-ci.org/react-fast-cli/react-fast-cli)
 
 #### TEMPLATE
