@@ -142,6 +142,7 @@ function cloneRepo(root) {
                 spinner.fail('clone template failed')
                 return
             }
+            removeRedundant(root)
             spinner.succeed('clone template succeed')
             resolve()
         })
@@ -292,4 +293,11 @@ function checkIfOnline(useYarn) {
             }
         });
     });
+}
+
+/**
+ * remove readme and .git etc
+ */
+function removeRedundant(root) {
+    execSync(`cd ${root} && rm README.md && rm -rf .git`)
 }
